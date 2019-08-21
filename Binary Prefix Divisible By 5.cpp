@@ -1,3 +1,5 @@
+//https://leetcode.com/problems/binary-prefix-divisible-by-5/
+
 class Solution {
 public:
     vector<bool> prefixesDivBy5(vector<int>& A) {
